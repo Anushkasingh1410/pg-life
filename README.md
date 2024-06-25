@@ -4,10 +4,6 @@ PG Life Web Application Overview:
    - PG Life is a Full-Stack Web Application developed during the Internshala Full Stack Web Development Internship Training.
    - Tailored for enhanced user experience with personalized features.
 
-2. Web App URL:
-   - Hosted online at http://pglifeadityatalwatkar.wuaze.com/
-   - Fully responsive and operational on any device.
-
 3. Technology Stack:
    - Developed using HTML, CSS, Bootstrap ,DBMS, Javascript, PHP, React and MySQL.
 
